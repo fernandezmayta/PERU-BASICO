@@ -1,0 +1,916 @@
+#----- CATEGORIA RELIGION---#
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/cultura-24_1782518421.png"  group-title="RELIGION", cultura24
+#EXTVLCOPT:network-caching=1000
+https://www.opencaster.com/resources/hls_stream/cultura24.m3u8
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/radiotv_oriente_1780316405.png"  group-title="RELIGION", RadioTV Oriente
+#EXTVLCOPT:network-caching=1000
+https://live.obslivestream.com/tvoriente/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/unife_tv_1780317577.png"  group-title="RELIGION", UNIFE TV
+#EXTVLCOPT:network-caching=1000
+https://cdn.mycloudstream.io/hls/live/broadcast/ic1frrzz/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767644430380/948d2d3bd392_480_270.png"  group-title="RELIGION", CREO FE
+#EXTVLCOPT:network-caching=1000
+https://es3-p2-netcdn.bitel.com.pe/netcdn-live-4/bitel/CreoFeSRT/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/08/19/03/1787086563835/cfd0074d0ba7_480_270.png"  group-title="RELIGION", JN19
+#EXTVLCOPT:network-caching=1000
+
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/31/05/1769812827629/c867572138f8_480_270.png"  group-title="RELIGION", VOZ CRISTIANA
+#EXTVLCOPT:network-caching=1000
+https://live-evg8.tv360.bitel.com.pe/bitel/JN19/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/16/03/1768509020402/ee75708aef49_480_270.jpeg"  group-title="RELIGION", BETHEL TV
+#EXTVLCOPT:network-caching=1000
+https://live-evg8.tv360.bitel.com.pe/bitel/vozcristianatvSRT-TRA/playlist.m3u8?manifestfilter=video_bitrate:1-10000000&uid=6587754
+
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/02/176764135688/ca99505153a2_480_270.png"  group-title="RELIGION", SANTA ROSA
+#EXTVLCOPT:network-caching=1000
+https://es4-p2-netcdn.bitel.com.pe/netcdn-live-5/bitel/santarosaSRT/chunks.m3u8
+
+#----- CATEGORIA GENERAL---#
+
+#EXTINF:24 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/08/01/07/1785542811672/6b2d9581f7df_480_270.png" group-title="GENERAL" ,RUMBO MINERO
+#EXTVLCOPT:network-caching=1000
+https://live-evg8.tv360.bitel.com.pe/bitel/minero/chunks.m3u8
+
+#EXTINF:24 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/08/01/07/178554273427/325bfa0840b3_480_270.jpg" group-title="GENERAL", PBO
+#EXTVLCOPT:network-caching=1000
+https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/bitel/pbo_720p/chunks.m3u8
+
+#EXTINF:25 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767645029340/3879825b6e20_480_270.png" group-title="GENERAL",LATELE
+#EXTVLCOPT:network-caching=1000
+https://live-evg25.tv360.bitel.com.pe/bitel/latele/chunks.m3u8
+
+#EXTINF:24 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/02/1767641223719/2ea742cd2ef0_480_270.png" group-title="GENERAL", ANIMA KIDS
+#EXTVLCOPT:network-caching=1000
+https://live-evg8.tv360.bitel.com.pe/bitel/animakids/chunks.m3u8
+
+#EXTINF:24 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647409377/6123aa5e7fc7_480_270.png" group-title="GENERAL", PEQUES TV
+#EXTVLCOPT:network-caching=1000
+https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/09/27/05/1790462394107/08aee0e97d2a_480_270.png" group-title="GENERAL",AMERICA TV HD PERU 
+#EXTGRP:GENERAL
+https://cablered.iptvperu.tv:1936/cablered/americatv-nuevo/playlist.m3u8
+
+#EXTINF: 23  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/08/01/07/1785542661232/b9c47cb9eda1_480_270.png" group-title="GENERAL", LATINA TV
+#EXTVLCOPT:network-caching=1000
+https://live-evg20.tv360.bitel.com.pe/NMDCffnQhlwdPZsU4COlpg/1790980809/bitel/Latina-UDP_abr/bitel/Latina-udp_480p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/latina-noticias-24-7_1783296066.png"  group-title="GENERAL", LATINA NOTICIAS HD
+#EXTVLCOPT:network-caching=1000
+https://jireh-4-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/latinaclasicos-pe_1050.jpg"  group-title="GENERAL", LATINA CLASICOS HD
+#EXTVLCOPT:network-caching=1000
+https://jireh-3-hls-video-us-isp.dps.live/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/latina-podcast_1783296068.png"  group-title="GENERAL", LATINA PODCAST HD
+#EXTVLCOPT:network-caching=1000
+https://jireh-7-hls-video-us-isp.dps.live/hls-video/plus226/latina4/latina4.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/dtv_1782172834.png" group-title="GENERAL", PANAMERICANA TV HD PERU 
+#EXTVLCOPT:network-caching=1000
+https://cablered.iptvperu.tv:1936/transcoder/panamerica_local.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/08/01/07/1785542749880/1735c0f3ef65_480_270.png" group-title="GENERAL", WILLAX TV HD PERU 
+#EXTVLCOPT:network-caching=1000
+https://cablered.iptvperu.tv:1936/cablered/willax-res.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/02/1767641572147/9a36464b2f02_480_270.png" group-title="GENERAL", GLOBAL TV HD PERU 
+#EXTVLCOPT:network-caching=1000
+https://cablered.iptvperu.tv:1936/cablered/global.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:Logo_de_TV_Per%C3%BA_HD.png" group-title="GENERAL",TV PERU HD  
+#EXTVLCOPT:network-caching=1000
+https://cablered.iptvperu.tv:1936/cablered/tvperu_new/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/08/01/07/1785542729750/072ce89124d2_480_270.png" group-title="GENERAL",EXITOSA TV HD PERU 
+#EXTVLCOPT:network-caching=1000
+https://cablered.iptvperu.tv:1936/cablered/Exitosa_new/playlist.m3u8
+
+#EXTINF: 23 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/02/1767642665720/03bab8a92964_480_270.png" group-title="GENERAL", ATV SUR HD
+#EXTVLCOPT:network-caching=1000
+https://live-evg16.tv360.bitel.com.pe/bitel/atvsur_abr/bitel/atvsur_480p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/atvplus-pe_1045.jpg" group-title="GENERAL", ATV+ HD PERU 
+#EXTVLCOPT:network-caching=1000
+https://cablered.iptvperu.tv:1936/cablered/atvplus.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/atv_1780314419.png" group-title="GENERAL", ATV HD PERU 
+#EXTVLCOPT:network-caching=1000
+https://d19e55ehz2il4i.cloudfront.net/ts:abr.m3u8
+
+#EXTINF: 25 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767644988528/aceceab14c39_480_270.png" group-title="GENERAL", CREO LATINO
+#EXTVLCOPT:network-caching=1000
+https://live-evg5.tv360.bitel.com.pe/bitel/CreoLatinoSRT/chunks.m3u8
+
+#EXTINF: 25 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/03/06/06/1772752188436/050b3fc87fab_480_270.png" group-title="GENERAL", Giro visual
+#EXTVLCOPT:network-caching=1000
+https://live-evg8.tv360.bitel.com.pe/bitel/girovisualSRT-TRA/chunks.m3u8
+
+#EXTINF: 25 tvg-logo="https://icanlive.tv/pictures/altura-tv_1782086424.jpg" group-title="GENERAL", Altura tv
+#EXTVLCOPT:network-caching=1000
+https://play.agenciastreaming.com:8081/tvalturalimalive/video.m3u8
+
+#EXTINF: 25tvg-logo="https://www.ldmtv.com.ar/images/LDMTV-FEDERAL-solo.png" group-title="GENERAL", ldm argentina tv
+#EXTVLCOPT:network-caching=1000
+https://stream.arcast.net:4443/ldmtv/ldmtv/playlist.m3u8
+
+#EXTINF: 25 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647052374/d0b7cf8623a8_480_270.png" group-title="GENERAL", Chiqui toons HD
+#EXTVLCOPT:network-caching=1000
+https://live-evg25.tv360.bitel.com.pe/bitel/chikitoonsSRT/chunks.m3u8
+
+#EXTINF: 25 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767644430380/948d2d3bd392_480_270.png" group-title="GENERAL", +FE
+#EXTVLCOPT:network-caching=1000
+https://live-evg10.tv360.bitel.com.pe/bitel/fetv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767645029340/3879825b6e20_480_270.png" group-title="GENERAL", LA TELE TV HD PERU 
+#EXTVLCOPT:network-caching=1000
+https://cablered.iptvperu.tv:1936/cablered/la_tele.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/08/01/07/1785542683378/43575f703cd0_480_270.png" group-title="GENERAL", RPP NOTICIAS TV HD PERU 
+#EXTVLCOPT:network-caching=1000
+https://cablered.iptvperu.tv:1936/cablered/rpp_new/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/canalipe-pe_1047.jpg"  group-title="GENERAL", IPE HD
+#EXTVLCOPT:network-caching=1000
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/ipe.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/cvn-tv_1782518421.png"  group-title="GENERAL", CVN TV
+#EXTVLCOPT:network-caching=1000
+https://7.innovatestream.pe:19360/cvntumbes/cvntumbes.m3u8
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/deltatv_1782518422.png"  group-title="GENERAL", DeltaTV
+#EXTVLCOPT:network-caching=1000
+https://tv2.bitstreaming.net:3539/live/deltanetlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/doble-c-television_1781913617.png"  group-title="GENERAL", Doble C Television
+#EXTVLCOPT:network-caching=1000
+https://live20.bozztv.com/giatv/giatv-doblec1/doblec1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/foro-tv_1782518426.jpg"  group-title="GENERAL", FORO TV
+#EXTVLCOPT:network-caching=1000
+https://mc.servidor.stream:19360/8274/Source.m3u8
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/karibena_1780315536.png"  group-title="GENERAL", Karibeña tv
+#EXTVLCOPT:network-caching=1000
+https://iptv-pe-x-7-g3s-video.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/master-tv_1782172837.png"  group-title="GENERAL", Master tv
+#EXTVLCOPT:network-caching=1000
+https://live.obslivestream.com/mastertv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/nacional-tv-peru_1782518435.png"  group-title="GENERAL", NACIONAL PERU 
+#EXTVLCOPT:network-caching=1000
+https://play.agenciastreaming.com:8081/nacionaltv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/nativatvsatipo-pe_1055.jpg"  group-title="GENERAL", Nativa TV Satipo
+#EXTVLCOPT:network-caching=1000
+https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/super_canal_peru_1790664765.jpg"  group-title="GENERAL", SUPER CANAL HD
+#EXTVLCOPT:network-caching=1000
+https://live.obslivestream.com/supercanal/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/via_television_1780317669.png"  group-title="GENERAL", VIA TV
+#EXTVLCOPT:network-caching=1000
+https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/vnp_1780317697.png"  group-title="GENERAL",  VISION NOTICIAS
+#EXTVLCOPT:network-caching=1000
+https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
+
+
+#-----CATEGORIA COSTA--------#
+
+#EXTINF: 25 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767646967483/28953320e649_480_270.png" group-title="COSTA", CREO TV
+#EXTGRP: COSTA
+#EXTVLCOPT:network-caching=1000
+https://live-evg5.tv360.bitel.com.pe/bitel/creosrt/chunks.m3u8
+
+#EXTINF: 25 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767643313546/ffc5b7c6b272_480_270.png" group-title="COSTA", FUEGO TV
+#EXTGRP: COSTA
+#EXTVLCOPT:network-caching=1000
+https://live-evg5.tv360.bitel.com.pe/bitel/fuegotv/chunks.m3u8
+
+#EXTINF: 25 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/04/07/02/1775503150878/c34840061c94_480_270.png" group-title="COSTA", TV EMPRESA
+#EXTGRP: COSTA
+#EXTVLCOPT:network-caching=1000
+https://live-evg8.tv360.bitel.com.pe/bitel/tvempresaSRT/chunks.m3u8
+
+#EXTINF: 25 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647433897/4d6766e17768_480_270.png" group-title="COSTA", TRIVU
+#EXTGRP: COSTA
+#EXTVLCOPT:network-caching=1000
+https://live-evg11.tv360.bitel.com.pe/bitel/trivutv/chunks.m3u8
+
+#EXTINF: 25 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767645515476/68d99d53548a_480_270.png" group-title="COSTA", BITT
+#EXTGRP: COSTA
+#EXTVLCOPT:network-caching=1000
+https://live-evg10.tv360.bitel.com.pe/bitel/bitt/chunks.m3u8
+
+#EXTINF: 25 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/02/26/22/1772120012871/88aef8401501_480_270.png" group-title="COSTA", EXTREMA TV
+#EXTGRP: COSTA
+#EXTVLCOPT:network-caching=1000
+https://live-evg11.tv360.bitel.com.pe/bitel/xtvSRT/chunks.m3u8
+
+#EXTINF: 25 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/02/1767640937611/3e9e20e09e21_480_270.png" group-title="COSTA", BCH TV
+#EXTGRP: COSTA
+#EXTVLCOPT:network-caching=1000
+https://live-evg10.tv360.bitel.com.pe/bitel/bhtv/chunks.m3u8?uid=5685548
+
+#EXTINF: 25 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767648938669/e0a9868ad260_480_270.png" group-title="COSTA", TELELIMA
+#EXTGRP: COSTA
+#EXTVLCOPT:network-caching=1000
+https://live-evg10.tv360.bitel.com.pe/bitel/bhtv/chunks.m3u8?uid=5685548
+
+#EXTINF: 25 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/05/27/03/1779825690602/35cfac0ed79a_480_270.png" group-title="COSTA", MAX TV
+#EXTGRP: COSTA
+#EXTVLCOPT:network-caching=1000
+https://live-evg11.tv360.bitel.com.pe/bitel/maxtv/chunks.m3u8
+
+#EXTINF: 25 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767643633107/23e9ee066751_480_270.png" group-title="COSTA", MILENIAN TV
+#EXTGRP: COSTA
+#EXTVLCOPT:network-caching=1000
+https://live-evg5.tv360.bitel.com.pe/bitel/milenial/chunks.m3u8
+
+#EXTINF: 25 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767643633107/23e9ee066751_480_270.png" group-title="COSTA", FLOKORETV
+#EXTGRP: COSTA
+#EXTVLCOPT:network-caching=1000
+https://live-evg8.tv360.bitel.com.pe/bitel/folkloretv/chunks.m3u8
+
+#EXTINF: 2I tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/02/1767641309867/fc4be8a07f40_480_270.jpg" group-title="COSTA", RCN 
+#EXTGRP: COSTA
+#EXTVLCOPT:network-caching=1000
+https://live-evg10.tv360.bitel.com.pe/bitel/rcr/chunks.m3u8
+
+#EXTINF: 25 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767643633107/23e9ee066751_480_270.png" group-title="COSTA", MILENIAN TV2
+#EXTGRP: COSTA
+#EXTVLCOPT:network-caching=1000
+https://vps.chasquirouter.com/salida/milenial.m3u8
+
+#EXTINF: 29 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767645515476/68d99d53548a_480_270.png" group-title="COSTA", BIT
+#EXTGRP: COSTA
+#EXTVLCOPT:network-caching=1000
+https://live-evg10.tv360.bitel.com.pe/bitel/bitt/chunks.m3u8
+
+#EXTINF: 25 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/03/04/1767387900429/262eed648bf0_480_270.png" group-title="COSTA", TVNORTE
+#EXTGRP: COSTA
+#EXTVLCOPT:network-caching=1000
+https://live-evg5.tv360.bitel.com.pe/bitel/tvnorte/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/02/17/04/1771276622208/9b06ded8c435_480_270.png" group-title="COSTA", KLIP TV
+#EXTVLCOPT:network-caching=1000
+https://live-evg10.tv360.bitel.com.pe/bitel/kliptv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/08/28/22/1787929333679/27112dd8184c_480_270.jpeg" group-title="COSTA", VOX TV
+#EXTGRP: COSTA
+#EXTVLCOPT:network-caching=1000
+https://live-evg8.tv360.bitel.com.pe/bitel/voxtvSRT-TRA/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/04/02/05/1775081979482/ddba258dd964_480_270.png" group-title="COSTA",VOZ CALLAO
+#EXTGRP: COSTA
+#EXTVLCOPT:network-caching=1000
+https://live-evg8.tv360.bitel.com.pe/bitel/vozdigitalperu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767643518557/1e6ee0a2630d_480_270.png" group-title="COSTA", HUACHO TV
+#EXTGRP: COSTA
+#EXTVLCOPT:network-caching=1000
+https://live-evg10.tv360.bitel.com.pe/bitel/36tvSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://impactotvdigital.pe/wp-content/uploads/2023/12/fondo4.png" group-title="COSTA",INPACTO TV
+#EXTGRP: COSTA
+#EXTVLCOPT:network-caching=1000
+https://cloudvideo.servers10.com:8081/impactotv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ondatvperu.com/assets/images/logo.png" group-title="COSTA", ONDA TV
+#EXTGRP: COSTA
+#EXTVLCOPT:network-caching=1000
+https://live-evg5.tv360.bitel.com.pe/bitel/onda/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647791135/b8f6b060cb8d_480_270.jpg" group-title="COSTA", ONDA DIGITAL TV
+#EXTGRP: COSTA
+#EXTVLCOPT:network-caching=1000
+https://live-evg5.tv360.bitel.com.pe/bitel/odtv2SRT/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647791135/b8f6b060cb8d_480_270.jpg" group-title="COSTA", ONDA DIGITAL TV
+#EXTGRP: COSTA
+#EXTVLCOPT:network-caching=1000
+https://live-evg5.tv360.bitel.com.pe/bitel/odtvSRT/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/176764712451/ace0d5d352e9_480_270.jpg" group-title="COSTA", ASIRI TV
+#EXTGRP: COSTA
+#EXTVLCOPT:network-caching=1000
+https://live-evg10.tv360.bitel.com.pe/bitel/asiritvSRT-TRA/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/09/02/1767901961607/3609f9dccf21_480_270.png" group-title="COSTA", OZONO TV 
+#EXTGRP: COSTA
+#EXTVLCOPT:network-caching=1000
+https://live-evg8.tv360.bitel.com.pe/bitel/ozonotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo/tv_norte_pe.png" group-title="COSTA", TV NORTE
+#EXTGRP: COSTA
+#EXTVLCOPT:network-caching=1000
+https://live-evg5.tv360.bitel.com.pe/bitel/tvnorte/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y7poiiM.png" group-title="COSTA", SIN TV 
+#EXTGRP: COSTA
+#EXTVLCOPT:network-caching=1000
+https://live-evg8.tv360.bitel.com.pe/bitel/unilantv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767644665288/51117e06e159_480_270.jpg" group-title="COSTA",ALBRICIAS TV 
+#EXTGRP: COSTA
+#EXTVLCOPT:network-caching=1000
+https://live-evg11.tv360.bitel.com.pe/bitel/albriciastv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647179623/f2fda43856b1_480_270.png" group-title="COSTA", RADIO UNO
+#EXTGRP: COSTA
+#EXTVLCOPT:network-caching=1000
+https://live-evg7.tv360.bitel.com.pe/bitel/radiounotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/conecta2tv_1780314874.png"  group-title="COSTA", Conecta2 tv HD
+#EXTGRP: COSTA
+#EXTVLCOPT:network-caching=1000
+https://live.obslivestream.com/conecta2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/la_fabulosa_tv_1780315635.png"  group-title="COSTA", La Fabulosa TV
+#EXTGRP: COSTA
+#EXTVLCOPT:network-caching=1000
+https://eu1.servers10.com:8081/8004/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/region-tv-callao_1782086437.png"  group-title="COSTA", Region TV Callao
+#EXTGRP: COSTA
+#EXTVLCOPT:network-caching=1000
+https://servilive.com:3757/live/regiontvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/tv-mar_1782172848.png"  group-title="COSTA", TV MAR
+#EXTGRP: COSTA
+#EXTVLCOPT:network-caching=1000
+https://live-evg11.tv360.bitel.com.pe/bitel/tvmarSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/tv-peruanisima_1782604833.png"  group-title="COSTA", TV Peruanisima
+#EXTGRP: COSTA
+#EXTVLCOPT:network-caching=1000
+https://k20.usastreams.com:8081/tvperuanisima/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/uchu-tv_1782172850.png"  group-title="COSTA", UCHU TV
+#EXTGRP: COSTA
+#EXTVLCOPT:network-caching=1000
+https://streamtv.onliv3.online:1936/karibtv/karibtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/wayra-tv_1782086449.png"  group-title="COSTA", Wayra TV
+#EXTGRP: COSTA
+#EXTVLCOPT:network-caching=1000
+https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/wtv_1782086449.png"  group-title="COSTA", Wtv
+#EXTGRP: COSTA
+#EXTVLCOPT:network-caching=1000
+https://live-evg7.tv360.bitel.com.pe/bitel/ncanalSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/zeleve-tv_1782172854.jpg"  group-title="COSTA", Zeleve TV
+#EXTGRP: COSTA
+#EXTVLCOPT:network-caching=1000
+https://live-evg11.tv360.bitel.com.pe/bitel/zeleve/playlist.m3u8
+
+
+
+
+#------- CATEGORIA SIERRA-----#
+
+#EXTINF: 2 tvg-logo="https://icanlive.tv/pictures/agro-tv_1782086423.png" group-title="SIERRA", AGRO TV
+#EXTGRP: SIERRA
+#EXTVLCOPT:network-caching=1000
+https://play.agenciastreaming.com:8081/agrotv/index.m3u8
+
+#EXTINF: 25 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/23/23/1769187431426/c057def7db7b_480_270.png" group-title="SIERRA", YUNGAY TV ANCASH
+#EXTGRP: SIERRA
+#EXTVLCOPT:network-caching=1000
+https://live-evg5.tv360.bitel.com.pe/bitel/yungaytvSRT/chunks.m3u8
+
+#EXTINF: 25 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/08/19/03/1787083887400/32d57e36f928_480_270.png" group-title="SIERRA", CUBA TV AYACUCHO
+#EXTGRP: SIERRA
+#EXTVLCOPT:network-caching=1000
+https://live-evg8.tv360.bitel.com.pe/bitel/Ayacanal/chunks.m3u8
+
+#EXTINF: 25 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767644709204/c6a30a3cbd07_480_270.png" group-title="SIERRA", SOLAR TV APURIMAC
+#EXTGRP: SIERRA
+#EXTVLCOPT:network-caching=1000
+https://live-evg11.tv360.bitel.com.pe/bitel/solartvSRT/chunks.m3u8
+
+#EXTINF: 25 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647696383/a48b28e2aec9_480_270.png" group-title="SIERRA", BELLA ABANQUINA AYACUCHO
+#EXTGRP: SIERRA
+#EXTVLCOPT:network-caching=1000
+https://es5-p2-netcdn.bitel.com.pe/netcdn-live-7/bitel/bellaabanquinaSRT/chunks.m3u8
+
+#EXTINF: 25 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/03/04/176738778077/ecd112237e84_480_270.jpg" group-title="SIERRA", CANAL 25 AYACUCHO
+#EXTGRP: SIERRA
+#EXTVLCOPT:network-caching=1000
+https://live-evg10.tv360.bitel.com.pe/bitel/canal25ayacucho/chunks.m3u8
+
+#EXTINF: 25 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767643388696/1c518fd9089a_480_270.png" group-title="SIERRA", MEDIA TV AYACUCHO
+#EXTGRP: SIERRA
+#EXTVLCOPT:network-caching=1000
+https://live-evg5.tv360.bitel.com.pe/bitel/mediatv/chunks.m3u8
+
+
+#EXTINF: 25 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767645542166/d9fd730144fe_480_270.png" group-title="SIERRA" TELESHOW AYACUCHO 
+#EXTGRP: SIERRA
+#EXTVLCOPT:network-caching=1000
+https://live-evg10.tv360.bitel.com.pe/bitel/abctv/chunks.m3u8
+
+#EXTINF: 25 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/176764771923/be2217887d4c_480_270.jpg" group-title="SIERRA" ATLANTIS TV AYACUCHO 
+#EXTGRP: SIERRA
+#EXTVLCOPT:network-caching=1000
+https://es1-p2-netcdn.bitel.com.pe/netcdn-live-7/bitel/atlantisSRT/chunks.m3u8
+
+#EXTINF: 25 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/02/1767643138514/b44afae9719a_480_270.png" group-title="SIERRA" CAJAMARCA TV  
+#EXTVLCOPT:network-caching=1000
+https://live-evg8.tv360.bitel.com.pe/bitel/cajamarcatvSRT/chunks.m3u8
+
+#EXTINF: 25 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/17/02/1768592362392/40e3b3a102ef_480_270.png" group-title="SIERRA", CANAL TS CAJAMARCA
+#EXTGRP: SIERRA
+#EXTVLCOPT:network-caching=1000
+https://live-evg5.tv360.bitel.com.pe/bitel/telesystemSRT/chunks.m3u8
+
+
+#EXTINF: 25 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647948836/4b29ec1d4817_480_270.jpg" group-title="SIERRA", XTREMA TV CAJAMRCA
+#EXTVLCOPT:network-caching=1000
+https://live-evg11.tv360.bitel.com.pe/bitel/xtvplusSRT/chunks.m3u8
+
+#EXTINF: 25 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/03/04/05/177257580770/6db7ebc6ef35_480_270.png" group-title="SIERRA", PLANEA TV CAJAMARCA
+#EXTGRP: SIERRA
+#EXTVLCOPT:network-caching=1000
+https://live-evg8.tv360.bitel.com.pe/bitel/planeatvSRT/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647002469/3af2778d61f9_480_270.png" group-title="SIERRA", MEGAVISION TV CAJAMARCA
+#EXTGRP: SIERRA
+#EXTVLCOPT:network-caching=1000
+https://live-evg10.tv360.bitel.com.pe/bitel/megavision/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767643749223/9f3126636484_480_270.png" group-title="SIERRA" , AGRO TV
+#EXTGRP: SIERRA
+#EXTVLCOPT:network-caching=1000
+https://live-evg8.tv360.bitel.com.pe/bitel/agroSRT/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767643550986/2c6fa63a32c9_480_270.png" group-title="SIERRA", TEVESUR CUSCO
+#EXTGRP: SIERRA
+#EXTVLCOPT:network-caching=1000
+https://live-evg11.tv360.bitel.com.pe/bitel/tevesurSRT/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647889228/7431097466e6_480_270.png" group-title="SIERRA",INKAVISION CUSCO
+#EXTGRP: SIERRA
+#EXTVLCOPT:network-caching=1000
+https://live-evg5.tv360.bitel.com.pe/bitel/inkavision/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/02/1767641543380/f106691c6004_480_270.png" group-title="SIERRA", QOSQUO TIMES CUSCO
+#EXTGRP: SIERRA
+#EXTVLCOPT:network-caching=1000
+https://live-evg5.tv360.bitel.com.pe/bitel/qosqo/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/24/03/1769200179614/92af83e1e138_480_270.png" group-title="SIERRA",YULI TV HUARAZ
+#EXTGRP: SIERRA
+#EXTVLCOPT:network-caching=1000
+https://live-evg5.tv360.bitel.com.pe/bitel/yolitvSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/03/02/1767382481928/9660e3d9a2fd_480_270.png" group-title="SIERRAL",RADIO INPERIAL
+#EXTGRP: SIERRA
+#EXTVLCOPT:network-caching=1000
+https://live-evg5.tv360.bitel.com.pe/bitel/yolitvSRT/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/22/04/1769031636409/4435f403a5fa_480_270.png" group-title="SIERRA  CAPITAL", ANCARA TV HCVA
+#EXTGRP: SIERRA
+#EXTVLCOPT:network-caching=1000
+https://live-evg10.tv360.bitel.com.pe/bitel/anqaratv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/05/28/04/1779918924336/f2517197645e_480_270.png" group-title="SIERRA  CAPITAL", MAXIMA TV HCVA
+#EXTGRP: SIERRA
+#EXTVLCOPT:network-caching=1000
+https://live-evg8.tv360.bitel.com.pe/bitel/maximatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/02/1767641753537/4eae2dd8d3fa_480_270.png" group-title="SIERRA  CAPITAL", CANAL21 HYO
+#EXTGRP: SIERRA
+#EXTVLCOPT:network-caching=1000
+https://live-evg11.tv360.bitel.com.pe/bitel/tvwanka/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767644582599/d9b88e3083bf_480_270.png" group-title="SIERRA  CAPITAL",UNITELTV HYO
+#EXTGRP: SIERRA
+#EXTVLCOPT:network-caching=1000
+https://live-evg11.tv360.bitel.com.pe/bitel/uniteltvSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/03/02/1767382427341/2a5d72421753_480_270.png" group-title="SIERRA  CAPITAL", RUMBA TV HUANUCO
+#EXTGRP: SIERRA
+#EXTVLCOPT:network-caching=1000
+https://live-evg7.tv360.bitel.com.pe/bitel/rumba/playlist.m3u8
+
+
+#EXTINF:-1tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/04/25/05/1777068352300/7f141eeafb34_480_270.png" group-title="SIERRA  CAPITAL",REAL TV HUANUCO
+#EXTGRP: SIERRA
+#EXTVLCOPT:network-caching=1000
+https://live-evg10.tv360.bitel.com.pe/bitel/realtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767646354762/7dd99c16eb45_480_270.png" group-title="SIERRA  CAPITAL",CADENA TV HYO
+#EXTGRP: SIERRA
+#EXTVLCOPT:network-caching=1000
+https://live-evg10.tv360.bitel.com.pe/bitel/cadenatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/09/10/05/1788994486323/2b14332b38dd_480_270.png" group-title="SIERRA  CAPITAL",UNICENTRO HYO
+#EXTGRP: SIERRA
+#EXTVLCOPT:network-caching=1000
+https://live-evg11.tv360.bitel.com.pe/bitel/unicentroSRT/playlist.m3u8
+
+#EXTINF:-1tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/02/1767641975903/ead8f9206acf_480_270.jpg" group-title="SIERRA  CAPITAL", MIEL TV JUNIN
+#EXTGRP: SIERRA
+#EXTVLCOPT:network-caching=1000
+https://live-evg5.tv360.bitel.com.pe/bitel/mieltvSRT-TRA/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/02/176764285939/35bcacf9ad3b_480_270.jpg" group-title="SIERRA", TARPUY TV JUNIN
+#EXTGRP: SIERRA
+#EXTVLCOPT:network-caching=1000
+https://live-evg13.tv360.bitel.com.pe/bitel/tarpuy/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/02/1767642752121/246ccab3132c_480_270.png" group-title="SIERRAL",LA MEGA PASCO
+#EXTGRP: SIERRA
+#EXTVLCOPT:network-caching=1000
+https://live-evg5.tv360.bitel.com.pe/bitel/megatv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767644825253/02010a931bdb_480_270.jpg" group-title="SIERRA", ZELEVE PASCO
+#EXTGRP: SIERRA
+#EXTVLCOPT:network-caching=1000
+https://live-evg11.tv360.bitel.com.pe/bitel/zeleve/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767648750885/42f22e0f704f_480_270.png" group-title="SIERRA",+ TV PASCO
+#EXTGRP: SIERRA
+#EXTVLCOPT:network-caching=1000
+https://live-evg11.tv360.bitel.com.pe/bitel/mastvSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/02/1767641723981/9c574bb05ece_480_270.png" group-title="SIERRA",RTP JULIACA
+#EXTGRP: SIERRA
+#EXTVLCOPT:network-caching=1000
+https://live-evg7.tv360.bitel.com.pe/bitel/rtp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/03/02/1767382451921/e4fcabdd7ad9_480_270.png" group-title="SIERRA", COSITEL JULIACA
+#EXTGRP: SIERRA
+#EXTVLCOPT:network-caching=1000
+https://live-evg10.tv360.bitel.com.pe/bitel/cositeljuliaca/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/solar-television_1782086438.png"  group-title="SIERRA", SOLAR TV APURIMAC
+#EXTGRP: SIERRA
+#EXTVLCOPT:network-caching=1000
+https://live-evg11.tv360.bitel.com.pe/bitel/solartvSRT/playlist.m3u8 
+
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/canal-25-ayacucho_1782086427.png"  group-title="SIERRA", CANAL 25 
+#EXTGRP: SIERRA
+#EXTVLCOPT:network-caching=1000
+https://live-evg10.tv360.bitel.com.pe/bitel/canal25ayacucho/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/turbo_mix_radio_tv_1780317230.png"  group-title="SIERRA", TURBO MIX
+#EXTGRP: SIERRA
+#EXTVLCOPT:network-caching=1000
+https://live-evg11.tv360.bitel.com.pe/bitel/turbomixSRT/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/111_tv_1780314105.png"  group-title="SIERRA", MONITOR TV
+#EXTGRP: SIERRA
+#EXTVLCOPT:network-caching=1000
+https://live-evg5.tv360.bitel.com.pe/bitel/monitortvSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/andes-television_1782086425.png" group-title="SIERRA", ANDES TELVISION
+#EXTGRP: SIERRA
+#EXTVLCOPT:network-caching=1000
+https://stmv2.srvif.com/tvsicuani/tvsicuani/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/antares_television_1780314339.png"  group-title="SIERRA", ANTARES TV 
+#EXTGRP: SIERRA
+#EXTVLCOPT:network-caching=1000
+https://5949aa132c8fb.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/antena_sur_1780314343.jpg"  group-title="SIERRA", Antena sur
+#EXTGRP: SIERRA
+#EXTVLCOPT:network-caching=1000
+https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/arpegio-tv_1782172828.png"  group-title="SIERRA", Arpegio TV
+#EXTGRP: SIERRA
+#EXTVLCOPT:network-caching=1000
+https://vdo.oyotunserver.com/arpegio/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/autentica_television_peru_1789456029.jpg"  group-title="SIERRA", Autentica televsion
+#EXTGRP: SIERRA
+#EXTVLCOPT:network-caching=1000
+https://live.obslivestream.com/autenticatvmux/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/canal8catacaos-pe_1046.jpg"  group-title="SIERRA", Canal 8 Catacaos
+#EXTGRP: SIERRA
+#EXTVLCOPT:network-caching=1000
+https://live.obslivestream.com/canal8/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/canal-mas-tv_1782172832.png"  group-title="SIERRA", Canal+ tv HD
+#EXTGRP: SIERRA
+#EXTVLCOPT:network-caching=1000
+https://live-evg11.tv360.bitel.com.pe/bitel/mastvSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/controversia_tv_peru_1789455035.jpg"  group-title="SIERRA", Controversia TV
+#EXTGRP: SIERRA
+#EXTVLCOPT:network-caching=1000
+https://live.obslivestream.com/controversiatv/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/cr_television_1780314895.png"  group-title="SIERRA", CR Television
+#EXTGRP: SIERRA
+#EXTVLCOPT:network-caching=1000
+https://live.obslivestream.com/crtvmux/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/galactica-tv_1782518427.jpg"  group-title="SIERRA", Galactica TV
+#EXTGRP: SIERRA
+#EXTVLCOPT:network-caching=1000
+https://stream.neux.site/memfs/e3f59eec-6b93-45e1-a2ab-c82381c2a9ec.m3u8
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/genios-tv_1782518428.png"  group-title="SIERRA", Genios TV
+#EXTGRP: SIERRA
+#EXTVLCOPT:network-caching=1000
+https://sc3.wasidata.com/Genios2_1902/video.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/kora-tv_1782518431.png"  group-title="SIERRA", Kora tv
+#EXTGRP: SIERRA
+#EXTVLCOPT:network-caching=1000
+https://s3.tvdatta.com:3700/live/jjrtvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/metropolitana-del-cuzco_1782518432.png"  group-title="SIERRA", Metropolitana del Cuzco
+#EXTGRP: SIERRA
+#EXTVLCOPT:network-caching=1000
+https://video1.earthcam.com/myearthcam/075ff02f78c35af55564cf3af3b3f750.flv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/mieltv-pe_1051.jpg"  group-title="SIERRA", MIEL TV HD
+#EXTGRP: SIERRA
+#EXTVLCOPT:network-caching=1000
+https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/tvenlinea_1782604832.png"  group-title="SIERRA", TVenLinea
+#EXTGRP: SIERRA
+#EXTVLCOPT:network-caching=1000
+https://srt.tvdatta.com/tvenlinea/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/vision_sur_peru_1789454291.jpg"  group-title="SIERRA", VISION SUR
+#EXTGRP: SIERRA
+#EXTVLCOPT:network-caching=1000
+https://live-evg8.tv360.bitel.com.pe/bitel/visionsur/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.huachos.com/upload/img/noticias/999a943d86d61bd2abb198e0dfbc0aac.jpg"  group-title="SIERRA", MO CHANEL
+#EXTGRP: SIERRA
+#EXTVLCOPT:network-caching=1000
+https://cloudvideo.servers10.com:8081/8070/index.m3u8
+
+
+#---------CATEGORIA SELVA------#
+
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/yurimaguas-tv_1782172853.png"  group-title="COSTA", Yurimaguas TV
+#EXTGRP: SELVA
+#EXTVLCOPT:network-caching=1000
+https://live-evg7.tv360.bitel.com.pe/bitel/yurimaguastvSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/yurivision_1782172853.jpg"  group-title="COSTA", Yurivision
+#EXTGRP: SELVA
+#EXTVLCOPT:network-caching=1000
+https://live-evg5.tv360.bitel.com.pe/bitel/yurivisionSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/amazonica-tv_1782172827.jpg" group-title="SELVA", AMAZONICA TV
+#EXTGRP: SELVA
+#EXTVLCOPT:network-caching=1000
+https://videoserver.tmcreativos.com:19360/amazonicatv/amazonicatv.m3u8
+
+#EXTINF:-1 tvg-logo="https://playmax.tv/upload/logos/Amazonica.jpg" group-title="SELVA",Amazonia tv
+#EXTGRP: SELVA
+#EXTVLCOPT:network-caching=1000
+https://servilive.com:3199/live/amazoniatvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/norselvartv-pe_1057.jpg" group-title="SELVA",NorSelva RTV
+#EXTGRP: SELVA
+#EXTVLCOPT:network-caching=1000
+https://live.obslivestream.com/norselvatv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/rn_television_1780316508.png" group-title="SELVA", RN TV
+#EXTGRP: SELVA
+#EXTVLCOPT:network-caching=1000
+https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/rselvatv_1780316530.png" group-title="SELVA",  selvaticaSRT
+#EXTGRP: SELVA
+#EXTVLCOPT:network-caching=1000
+https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/rselvatv_1780316530.png" group-title="SELVA", RSELVA
+#EXTGRP: SELVA
+#EXTVLCOPT:network-caching=1000
+https://live.obslivestream.com/selvatv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/telecolor_yurimaguas_1780316945.png" group-title="SELVA",Telecolor Yurimaguas
+#EXTGRP: SELVA
+#EXTVLCOPT:network-caching=1000
+https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/viva_tv_yurimaguas_1780317694.png" group-title="SELVA", Viva TV Yurimaguas
+#EXTVLCOPT:network-caching=1000
+https://live.obslivestream.com/vivatv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767646050913/6a2a4615d884_480_270.jpg" group-title="SELVA",RIO SELVA
+#EXTGRP: SELVA
+#EXTVLCOPT:network-caching=1000
+https://live-evg7.tv360.bitel.com.pe/bitel/riotvSRT/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/09/30/04/1790718590379/b7e1c0653891_480_270.jpeg" group-title="SELVA", CHUPACA TV
+#EXTGRP: SELVA
+#EXTVLCOPT:network-caching=100
+https://live-evg13.tv360.bitel.com.pe/bitel/chupacatv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/02/10/03/1770670525476/3149c613863d_480_270.png" group-title="SELVA", ARPEGIO TV
+#EXTGRP: SELVA
+#EXTVLCOPT:network-caching=100
+hhttps://es2-p2-netcdn.bitel.com.pe/netcdn-live-7/bitel/arpegiotvSRT-TRA/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/03/04/1767387945335/7fe7b0984052_480_270.png" group-title="SELVA",MAX CHANELSELVA
+#EXTGRP: SELVA
+#EXTVLCOPT:network-caching=1000
+https://live-evg5.tv360.bitel.com.pe/bitel/maxchannel/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767648233356/da7e065b6446_480_270.jpg" group-title="SELVA", MIX TV
+#EXTGRP: SELVA
+#EXTVLCOPT:network-caching=1000
+https://live-evg5.tv360.bitel.com.pe/bitel/mixtvSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/176764455212/e4e59097e633_480_270.png" group-title="SELVA",TV MAR SELVA
+#EXTGRP: SELVA
+#EXTVLCOPT:network-caching=1000
+https://live-evg11.tv360.bitel.com.pe/bitel/tvmarSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767648031339/324534dee0ff_480_270.png" group-title="SELVA",SUPER TV SELVA
+#EXTGRP: SELVA
+#EXTVLCOPT:network-caching=1000
+https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/03/04/05/1772578731585/af488e42bb5e_480_270.png" group-title="SELVA", NEX TV 
+#EXTGRP: SELVA
+#EXTVLCOPT:network-caching=1000
+https://live-evg8.tv360.bitel.com.pe/bitel/nexSRT_TRA/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767643989170/95a31b8cfe7d_480_270.jpg"  group-title="SELVA",VIA TELEVICION
+#EXTGRP: SELVA
+#EXTVLCOPT:network-caching=1000
+https://live-evg11.tv360.bitel.com.pe/bitel/viatvSRT/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/02/1767642063628/22b9d798f738_480_270.png"  group-title="SELVA" ,  TV TARAPOTO
+#EXTGRP: SELVA
+#EXTVLCOPT:network-caching=1000
+https://live-evg11.tv360.bitel.com.pe/bitel/tvtarapotoSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767643967198/6afe7cf2673f_480_270.png"  group-title="SELVA", MASTER TV
+#EXTGRP: SELVA
+#EXTVLCOPT:network-caching=1000
+https://live-evg5.tv360.bitel.com.pe/bitel/mastertvSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/03/04/1767387726515/441c3231df73_480_270.jpg"  group-title="SELVA",TROPICAL TV
+#EXTGRP: SELVA
+#EXTVLCOPT:network-caching=1000
+https://live-evg11.tv360.bitel.com.pe/bitel/tropical/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767644870388/492202ff9267_480_270.png"  group-title="SELVA", URANIO TV
+#EXTGRP: SELVA
+#EXTVLCOPT:network-caching=1000
+https://live-evg11.tv360.bitel.com.pe/bitel/uraniotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767643662584/0fd8255b8863_480_270.jpg"  group-title="SELVA", UCAYALI TV
+#EXTGRP: SELVA
+#EXTVLCOPT:network-caching=1000
+https://live-evg11.tv360.bitel.com.pe/bitel/ucayalitvSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/02/1767642801539/9929bbfd098a_480_270.png"  group-title="SELVA", UCAYALI TV 1
+#EXTGRP: SELVA
+#EXTVLCOPT:network-caching=1000
+https://live-evg11.tv360.bitel.com.pe/bitel/utv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/02/12/03/1770842577740/0b3323f6ab86_480_270.png"  group-title="SELVA", CHARAPA TV
+#EXTGRP: SELVA
+#EXTVLCOPT:network-caching=1000 
+https://live-evg10.tv360.bitel.com.pe/bitel/charapatvSRT/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/03/31/06/1774913679720/79cf9e0d972a_480_270.png"  group-title="SELVA", PUCALLPA TV 
+#EXTGRP: SELVA
+#EXTVLCOPT:network-caching=1000
+https://live-evg13.tv360.bitel.com.pe/bitel/pucallpatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/30/03/1769719385912/a368548cfbb4_480_270.png"  group-title="SELVA", YURI VISION
+#EXTGRP: SELVA
+#EXTVLCOPT:network-caching=1000
+https://live-evg5.tv360.bitel.com.pe/bitel/yurivisionSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/03/03/1767386961428/4fb566803f19_480_270.jpg"  group-title="SELVA", YURIMAGUAS TV
+#EXTGRP: SELVA
+#EXTVLCOPT:network-caching=1000
+https://live-evg7.tv360.bitel.com.pe/bitel/yurimaguastvSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/20/22/1768924171853/29222a88df4a_480_270.png"  group-title="SELVA", RADIO TV SELVA
+#EXTGRP: SELVA
+#EXTVLCOPT:network-caching=1000
+https://live-evg11.tv360.bitel.com.pe/bitel/aldiatvSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/03/31/06/1774913387125/0ae034768578_480_270.png"  group-title="SELVA", YURIMAGUAS TV1
+#EXTGRP: SELVA
+#EXTVLCOPT:network-caching=1000
+https://live-evg13.tv360.bitel.com.pe/bitel/uranioyurimaguasSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/03/31/06/1774914040862/d123fa364824_480_270.png"  group-title="SELVA",RTV TOTAL
+#EXTGRP: SELVA 
+#EXTVLCOPT:network-caching=1000
+https://live-evg8.tv360.bitel.com.pe/bitel/totaltv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/07/03/03/1783022829725/02eb070a7bdb_480_270.png"  group-title="SELVA",MASTER HD 
+#EXTGRP: SELVA 
+#EXTVLCOPT:network-caching=1000
+https://live-evg5.tv360.bitel.com.pe/bitel/mastertvMADSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/05/28/03/1779913852711/baf834a15bda_480_270.png"  group-title="SELVA", FQ YURIMAGUAS
+#EXTGRP: SELVA 
+#EXTVLCOPT:network-caching=1000
+https://live-evg10.tv360.bitel.com.pe/bitel/frecuenciaamazonicaSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/05/28/03/1779914668348/5bf1609e4cad_480_270.png"  group-title="SELVA", COSMO VISION
+#EXTGRP: SELVA 
+#EXTVLCOPT:network-caching=1000
+https://live-evg10.tv360.bitel.com.pe/bitel/cosmovision/playlist.m3u8?manifestfilter=video_bitrate:1-10000000&uid=6587754
+
+#-----CATEGORIA MUSICA-----#
+
+#EXTINF:-1, tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647613690/b88d633d0b31_480_270.png" group-title="MUSICA", Z CREO TV 
+#EXTGRP: MUSICA
+#EXTVLCOPT:network-caching=1000
+https://live-evg11.tv360.bitel.com.pe/bitel/ZCreotvSRT/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/03/02/1767382563420/185ad94a4daf_480_270.jpg" group-title="MUSICA" , TOP LATINO
+#EXTGRP: MUSICA
+#EXTVLCOPT:network-caching=1000
+https://live-evg11.tv360.bitel.com.pe/bitel/toplatino/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/ozono-tv_1782086435.png" group-title="MUSICA" , OZONO TV 1
+#EXTGRP: MUSICA
+#EXTVLCOPT:network-caching=1000
+https://live-evg8.tv360.bitel.com.pe/bitel/ozonotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/ozono-tv_1782086435.png" group-title="MUSICA", OZONO TV 2
+#EXTGRP: MUSICA
+#EXTVLCOPT:network-caching=1000
+https://5790d294af2dc.streamlock.net/8062/8062/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://icanlive.tv/pictures/primavera_15_1780316298.png" group-title="MUSICA",Primavera 15
+#EXTGRP: MUSICA
+#EXTVLCOPT:network-caching=1000
+https://mc.servidor.stream:19360/8244/8244.m3u8
+
+#EXTINF:-1  tvg-logo="https://icanlive.tv/pictures/radio-chalaca_1782604827.png" group-title="MUSICA",RADIO CHALCA
+#EXTGRP: MUSICA
+#EXTVLCOPT:network-caching=1000
+https://servilive.com:3414/hybrid/play.m3u8
+
+#EXTINF:-1  tvg-logo="https://icanlive.tv/pictures/radio_tropical_1780316403.png" group-title="MUSICA", RADIO MEGA MIX
+#EXTGRP: MUSICA
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/5fada56fe4e09508207a7951/playlist.m3u8?aid=5faaeb72f92d7b07dfe10181&manifestfilter=video_bitrate%3A1-10000000&uid=ENsg9rFagbs4dc7GyTQX20NhQmR1hzkc&pid=0iurMkDPQBfEUtzXH1NEyCuwfRG8HBbh&sid=p2h1vhiaLCktlZevCBQeXn6Gr8IaV2y5&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1790983202256&ot=6tnZSW1QeXud5tC9jrZAlA&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada56fe4e09508207a7951&referer=https%3A%2F%2Ftv360.bitel.com.pe%2F&listenerId=ENsg9rFagbs4dc7GyTQX20NhQmR1hzkc
+
+#EXTINF:-1  tvg-logo="https://icanlive.tv/pictures/radio_master_1780316377.png" group-title="MUSICA",RADIO MASTER
+#EXTGRP: MUSICA
+#EXTVLCOPT:network-caching=1000
+https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8
+
+#EXTINF:-1  tvg-logo="https://icanlive.tv/pictures/radio_tropical_1780316403.png" group-title="MUSICA", Radio Tropical
+#EXTGRP: MUSICA
+#EXTVLCOPT:network-caching=1000
+https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
+
+#EXTINF:-1  tvg-logo="https://icanlive.tv/pictures/top_tv_1780317164.png" group-title="MUSICA", TOP TV
+#EXTGRP: MUSICA
+#EXTVLCOPT:network-caching=1000
+https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
+
+#EXTINF:-1  tvg-logo="https://icanlive.tv/pictures/tvuno_1780317527.png" group-title="MUSICA", TV UNO
+#EXTGRP: MUSICA
+#EXTVLCOPT:network-caching=1000
+https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
